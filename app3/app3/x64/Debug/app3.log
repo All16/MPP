@@ -1,0 +1,32 @@
+﻿  app3.cpp
+  app3Dlg.cpp
+C:\Users\User\Desktop\mpp\app3\app3\app3Dlg.cpp(18,9): warning C4005: 'IDC_EDIT1': macro redefinition
+  (compiling source file '/app3Dlg.cpp')
+      C:\Users\User\Desktop\mpp\app3\app3\resource.h(11,9):
+      see previous definition of 'IDC_EDIT1'
+  
+C:\Users\User\Desktop\mpp\app3\app3\app3Dlg.cpp(19,9): warning C4005: 'IDOK': macro redefinition
+  (compiling source file '/app3Dlg.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11151,9):
+      see previous definition of 'IDOK'
+  
+C:\Users\User\Desktop\mpp\app3\app3\app3Dlg.cpp(20,9): warning C4005: 'IDCANCEL': macro redefinition
+  (compiling source file '/app3Dlg.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11152,9):
+      see previous definition of 'IDCANCEL'
+  
+C:\Users\User\Desktop\mpp\app3\app3\app3Dlg.cpp(148,20): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  (compiling source file '/app3Dlg.cpp')
+  
+C:\Users\User\Desktop\mpp\app3\app3\app3Dlg.cpp(156,25): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  (compiling source file '/app3Dlg.cpp')
+  
+C:\Users\User\Desktop\mpp\app3\app3\app3Dlg.cpp(162,17): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  (compiling source file '/app3Dlg.cpp')
+  
+C:\Users\User\Desktop\mpp\app3\app3\app3Dlg.cpp(236,19): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  (compiling source file '/app3Dlg.cpp')
+  
+  OnBnClickedCalculeaza.cpp
+  Generating Code...
+  app3.vcxproj -> C:\Users\User\Desktop\mpp\app3\x64\Debug\app3.exe
